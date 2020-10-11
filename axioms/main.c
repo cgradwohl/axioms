@@ -8,6 +8,8 @@
 
 #include <stdio.h>
 
+// argc refers to the number of arguments passed
+// argv[] is a pointer array which points to each argument passed to the program
 int main(int argc, const char * argv[]){
     printf("%d\n", argc);
     int len = 0;
