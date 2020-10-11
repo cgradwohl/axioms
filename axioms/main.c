@@ -10,8 +10,12 @@
 
 int main(int argc, const char * argv[]){
     printf("%d\n", argc);
+    int len = 0;
     for (int i = 0; i < argc; i++) {
+        len++;
         printf("arg %d : %s\n", i, argv[i]);
     }
+
+    printf("%d", len);
     return 0;
 }
