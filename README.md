@@ -1,17 +1,23 @@
 # Axioms
-### Data Sructure and Algorithms wrtten in C and Objective-C
 
-Data Structure:
-- [] Linked List
-- [] Stack
-- [] Queue
-- [] Heap
-- [] Set
-- [] Binary Tree
-- [] Graph
-- [] Trie
-- [] Hash Table
+Languages:
+- [] C
+- [] Objective-C
+- [] C++
+- [] Rust
+- [] Javascript
+
+Data Structures:
+- [] Arrays
+- [] Linked Lists
+- [] Hash Tables
+- [] Stacks and Queues
+- [] Strings
+- [] Graphs
+- [] Trees (binary, non-binary, heaps, tries)
 
 Algorithms:
+
+Systems Design:
 
 Design Patterns:
