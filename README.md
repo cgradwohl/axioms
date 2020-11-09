@@ -21,3 +21,7 @@ Algorithms:
 Systems Design:
 
 Design Patterns:
+- [ ] Object Oriented Design
+  - Singleton Pattern
+  - Factory Pattern
+- [ ] Functional Design
