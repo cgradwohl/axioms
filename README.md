@@ -1,11 +1,10 @@
 # Axioms
 
 ### Languages:
-- [ ] C
-- [ ] Objective-C
-- [ ] C++
-- [ ] Rust
-- [ ] Javascript
+- [ ] Javascript / Typescript
+- [ ] C / C++
+- [ ] Objective-C / Swift (iOS Projects)
+- [ ] Rust (WASM Projects)
 
 ### Data Structures:
 - [ ] Arrays
