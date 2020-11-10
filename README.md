@@ -1,10 +1,13 @@
 # Axioms
 
 ### Languages:
-- [ ] Javascript / Typescript
-- [ ] C / C++
-- [ ] Objective-C / Swift (iOS Projects)
+- [ ] Python (whiteboard and coding challenges)
+- [ ] Java (data structures and theory)
+- [ ] C / C++ (data structures and theory)
+
+- [ ] Javascript / Typescript (Serverless Projects)
 - [ ] Rust (WASM Projects)
+- [ ] Objective-C / Swift (iOS Projects)
 
 ### Data Structures:
 - [ ] Arrays
