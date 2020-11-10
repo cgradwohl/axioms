@@ -16,24 +16,35 @@
 - [ ] Graphs
 - [ ] Trees (binary, non-binary, heaps, tries)
 
-### Algorithms:
+### Algorithms and Techniques:
+- [ ] Variables/Pointers manipulation (multiple pointers)
+- [ ] Recursion and Dynamic Programming
+- [ ] Class and OOP Design
+
 ##### Arrays
+- [ ] Sorting fundamentals (quicksort, mergesort, bubblesort techniques)
+- [ ] Binary Search and Binary Search techniques
 
 ##### Linked Lists
+- [ ] Reverse linked list (duplicates , removing duplicates, Pointers manipulation)
 
 ##### Hash Tables
+- [ ] Memoization/ Caching
 
 ##### Stacks and Queues
+- [ ] Matching Parenthesis Problem
 
 ##### Strings
+- [ ] Suffix Tree Data Structure 
 
-##### Graphs
-
-##### Trees
-
+##### Trees, Graphs
+- [ ] Depth First Search
+- [ ] Bredth First Search
+- [ ] Binary Search Tree
+- [ ] B-Tree
 
 ### Systems Design:
-- TBD
+- [ ] REST API Design
 
 ### Design Patterns:
 - [ ] Object Oriented Design
