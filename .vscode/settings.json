@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.js": "javascript",
+    "*.yml": "yaml",
+    "deque": "c",
+    "string": "c",
+    "unordered_map": "c",
+    "vector": "c"
+  }
+}
