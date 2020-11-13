@@ -2,6 +2,15 @@
 #include <stdlib.h>
 #include <string.h>
 
+// NOTE:
+// foo->bar is equivalent to (*foo).bar
+// i.e. it gets the member called bar from the struct that foo points to.
+
+// NOTE:
+// '*' can be used as the multiplication operator: 3 * 3
+// '*' can declare a pointer: int *x;
+// '*' can dereference a pointer: return *x;
+
 /**
  *  ADDRESS | VALUE | Note
  *    1     | 777   |
