@@ -13,3 +13,6 @@ function doSomething() {
     console.log('finally', j);
 }
 doSomething();
+/**
+ * OOTB, tsc will compile your ts code into ES5 (before let, and const)
+ */ 
