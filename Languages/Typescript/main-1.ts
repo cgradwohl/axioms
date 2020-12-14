@@ -21,4 +21,6 @@ doSomething();
 
 /**
  * OOTB, tsc will compile your ts code into ES5 (before let, and const)
+ * 
+ * Even though this example has errors, tsc will still compile this code to valid ES5 and produce a js file
  */
