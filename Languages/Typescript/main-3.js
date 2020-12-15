@@ -18,3 +18,7 @@ var endsWithC3 = message3.endsWith('c');
 console.log('endsWithC', endsWithC);
 console.log('endsWithC2', endsWithC2);
 console.log('endsWithC3', endsWithC3);
+// prints:
+// endsWithC true
+// endsWithC2 false
+// endsWithC3 true
